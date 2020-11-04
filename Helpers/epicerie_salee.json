@@ -1,0 +1,47 @@
+[{
+        "id": 1,
+        "nom_produit": "Navets à la libanaise",
+        "nom_producteur": "Jacqueline Conserve",
+        "prix": 7,
+        "categorie": "epicerie_salee",
+        "description": "Bocal de navets à la libanaise de 200 grammes.",
+        "publication": "oui",
+        "mis_en_avant": "oui",
+        "reference": "1234",
+        "stock": 10,
+        "unite": "pièce",
+        "TVA": 5.5,
+        "image": "navets.jpg"
+    },
+    {
+        "id": 2,
+        "nom_produit": "Cornichons",
+        "nom_producteur": "Jacqueline Conserve",
+        "prix": 3,
+        "categorie": "epicerie_salee",
+        "description": "Bocal de cornichons de 200 grammes.",
+        "publication": "oui",
+        "mis_en_avant": "non",
+        "reference": "4321",
+        "stock": 15,
+        "unite": "pièce",
+        "TVA": 5.5,
+        "image": "cornichons.jpg"
+    },
+    {
+        "id": 3,
+        "nom_produit": "Sauce tomate",
+        "nom_producteur": "Jacqueline Conserve",
+        "prix": 3,
+        "categorie": "epicerie_salee",
+        "description": "Bocal de sauce tomate de 150 grammes.",
+        "publication": "oui",
+        "mis_en_avant": "non",
+        "reference": "7654",
+        "stock": 4,
+        "unite": "pièce",
+        "TVA": 5.5,
+        "image": "sauce_tomate.jpg"
+    }
+
+]
