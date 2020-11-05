@@ -1,0 +1,284 @@
+[{
+  "_id": {
+    "$oid": "5f50b70cf2d6e305632d059e"
+  },
+  "nom_produit": "Navets à la libanaise",
+  "nom_producteur": "Jacqueline Conserve",
+  "prix": 7,
+  "categorie": "epicerie_salee",
+  "description": "Bocal de navets à la libanaise de 200 grammes.",
+  "publication": "oui",
+  "mis_en_avant": "oui",
+  "reference": "1234",
+  "stock": 10,
+  "unite": "pièce",
+  "TVA": 5.5,
+  "image": "navets.jpg"
+},{
+  "_id": {
+    "$oid": "5f50b70cf2d6e305632d059f"
+  },
+  "nom_produit": "Ailes de poulet bio pack 1 kg",
+  "nom_producteur": "Farid Agri",
+  "prix": 8,
+  "categorie": "viande",
+  "description": "Pack promo 1 kg d'ailes de poulet bio race cou-nu",
+  "publication": "oui",
+  "mis_en_avant": "non",
+  "reference": "4567",
+  "stock": 15,
+  "unite": "pièce",
+  "TVA": 5.5,
+  "image": "poulet.jpg"
+},{
+  "_id": {
+    "$oid": "5f50b70cf2d6e305632d05a0"
+  },
+  "nom_produit": "Tomates cerises",
+  "nom_producteur": "Michel Jardinier",
+  "prix": 3.5,
+  "categorie": "fruits_et_legumes",
+  "description": "Tomates cerises rondes cueillies à maturité.",
+  "publication": "oui",
+  "mis_en_avant": "non",
+  "reference": "5678",
+  "stock": 5,
+  "unite": "kg",
+  "TVA": 5.5,
+  "image": "tomates_cerises.jpg"
+},{
+  "_id": {
+    "$oid": "5f50c3eff2d6e305632d05a7"
+  },
+  "nom_produit": "Cornichons",
+  "nom_producteur": "Jacqueline Conserve",
+  "prix": 3,
+  "categorie": "epicerie_salee",
+  "description": "Bocal de cornichons de 200 grammes.",
+  "publication": "oui",
+  "mis_en_avant": "non",
+  "reference": "4321",
+  "stock": 15,
+  "unite": "pièce",
+  "TVA": 5.5,
+  "image": "cornichons.jpg"
+},{
+  "_id": {
+    "$oid": "5f50c3eff2d6e305632d05a8"
+  },
+  "nom_produit": "Sauce tomate",
+  "nom_producteur": "Jacqueline Conserve",
+  "prix": 3,
+  "categorie": "epicerie_salee",
+  "description": "Bocal de sauce tomate de 150 grammes.",
+  "publication": "oui",
+  "mis_en_avant": "non",
+  "reference": "7654",
+  "stock": 4,
+  "unite": "pièce",
+  "TVA": 5.5,
+  "image": "sauce_tomate.jpg"
+},{
+  "_id": {
+    "$oid": "5f50c3eff2d6e305632d05a9"
+  },
+  "nom_produit": "Chou-fleur",
+  "nom_producteur": "Michel Jardinier",
+  "prix": 2.5,
+  "categorie": "fruits_et_legumes",
+  "description": "Chou-fleur idéal pour les gratins.",
+  "publication": "oui",
+  "mis_en_avant": "non",
+  "reference": "7900",
+  "stock": 10,
+  "unite": "pièce",
+  "TVA": 5.5,
+  "image": "vignette-choufleur.jpg"
+},{
+  "_id": {
+    "$oid": "5f60aeddec6b874b7adf6881"
+  },
+  "nom_produit": "Savon au lait d'ânesse",
+  "nom_producteur": "Sami Botté",
+  "prix": 7,
+  "categorie": "cosmetiques",
+  "description": "Savon au lait d'ânesse pour toute la famille.",
+  "publication": "oui",
+  "mis_en_avant": "oui",
+  "reference": "5698",
+  "stock": 12,
+  "unite": "pièce",
+  "TVA": 20,
+  "image": "savon.jpg"
+},{
+  "_id": {
+    "$oid": "5f60af97ec6b874b7adf6882"
+  },
+  "nom_produit": "Bicarbonate de soude 500 g",
+  "nom_producteur": "Julie Récure",
+  "prix": 2,
+  "categorie": "entretien_de_la_maison",
+  "description": "Bicarbonate de soude de qualité alimentaire.",
+  "publication": "oui",
+  "mis_en_avant": "oui",
+  "reference": "0967",
+  "stock": 5,
+  "unite": "pièce",
+  "TVA": 20,
+  "image": "bicarbonate.jpg"
+},{
+  "_id": {
+    "$oid": "5f60b23dec6b874b7adf6883"
+  },
+  "nom_produit": "Jus de pommes 1 litre",
+  "nom_producteur": "Michel Jardinier",
+  "prix": 4,
+  "categorie": "boissons",
+  "description": "Jus de pommes issu de l'agriculture raisonnée.",
+  "publication": "oui",
+  "mis_en_avant": "non",
+  "reference": "5436",
+  "stock": 10,
+  "unite": "pièce",
+  "TVA": 5.5,
+  "image": "jus_pomme.jpg"
+},{
+  "_id": {
+    "$oid": "5f60c6dbec6b874b7adf6884"
+  },
+  "nom_produit": "Baguette au levain",
+  "nom_producteur": "Henri Farine",
+  "prix": 1.5,
+  "categorie": "boulangerie",
+  "description": "Baguette au levain de 200 grammes.",
+  "publication": "oui",
+  "mis_en_avant": "non",
+  "reference": "7865",
+  "stock": 20,
+  "unite": "pièce",
+  "TVA": 5.5,
+  "image": "baguette.jpg"
+},{
+  "_id": {
+    "$oid": "5f60c901ec6b874b7adf6885"
+  },
+  "nom_produit": "Yaourt à la fraise",
+  "nom_producteur": "Hélène Présure",
+  "prix": 2,
+  "categorie": "produits_laitiers",
+  "description": "Yaourt au lait de vache et aux fraises.",
+  "publication": "oui",
+  "mis_en_avant": "oui",
+  "reference": "6890",
+  "stock": 20,
+  "unite": "pièce",
+  "TVA": 5.5,
+  "image": "yaourt_fraise.jpg"
+},{
+  "_id": {
+    "$oid": "5f60ca6dec6b874b7adf6886"
+  },
+  "nom_produit": "Bonbons à la violette 150 g",
+  "nom_producteur": "Jean Sucre",
+  "prix": 4,
+  "categorie": "epicerie_sucree",
+  "description": "Bonbons à la violette.",
+  "publication": "oui",
+  "mis_en_avant": "non",
+  "reference": "9997",
+  "stock": 10,
+  "unite": "pièce",
+  "TVA": 20,
+  "image": "bonbons_violette.jpg"
+},{
+  "_id": {
+    "$oid": "5f60cd14ec6b874b7adf6887"
+  },
+  "nom_produit": "Bouquet de 11 roses",
+  "nom_producteur": "Léa Hortensia",
+  "prix": 13,
+  "categorie": "fleurs",
+  "description": "Bouquet de onze roses roses.",
+  "publication": "oui",
+  "mis_en_avant": "non",
+  "reference": "6655",
+  "stock": 5,
+  "unite": "pièce",
+  "TVA": 20,
+  "image": "vignette-fleurs.jpg"
+},{
+  "_id": {
+    "$oid": "5f61dd2006f8b116d8700e71"
+  },
+  "nom_produit": "Vin blanc sec",
+  "nom_producteur": "Farid Agri",
+  "prix": 7.5,
+  "categorie": "boissons",
+  "description": "Vin blanc sec idéal pour le poisson.",
+  "reference": "5443",
+  "stock": 11,
+  "unite": "pièce",
+  "image": "vignette-vin.jpg",
+  "publication": "oui",
+  "mis_en_avant": "oui"
+},{
+  "_id": {
+    "$oid": "5f61dda706f8b116d8700e72"
+  },
+  "nom_produit": "Yaourt nature au lait de chèvre",
+  "nom_producteur": "Hélène Présure",
+  "prix": 2,
+  "categorie": "produits_laitiers",
+  "description": "Yaourt nature au lait de chèvre.",
+  "reference": "5557",
+  "stock": 24,
+  "unite": "pièce",
+  "image": "vignette-yaourt.jpg",
+  "publication": "oui",
+  "mis_en_avant": "non"
+},{
+  "_id": {
+    "$oid": "5f61e0a3af35b02be07d39a7"
+  },
+  "nom_produit": "Viande de bœuf hachée",
+  "nom_producteur": "Farid Agri",
+  "prix": 9,
+  "categorie": "viande",
+  "description": "Viande de bœuf hachée.",
+  "reference": "8900",
+  "stock": 5,
+  "unite": "kg",
+  "image": "vignette-viande.jpg",
+  "publication": "non",
+  "mis_en_avant": "non"
+},{
+  "_id": {
+    "$oid": "5f61fe960f54b74e882c91ed"
+  },
+  "nom_produit": "Bouquet de tulipes",
+  "nom_producteur": "Léa Hortensia",
+  "prix": 6,
+  "categorie": "fleurs",
+  "description": "Bouquet de 9 tulipes. Couleur selon arrivage.",
+  "reference": "J27Y",
+  "stock": 10,
+  "unite": "pièce",
+  "image": "tulipes.jpg",
+  "publication": "oui",
+  "mis_en_avant": "non"
+},{
+  "_id": {
+    "$oid": "5f6200590f54b74e882c91ee"
+  },
+  "nom_produit": "Brioche fermière au chocolat bio",
+  "nom_producteur": "Henri Farine",
+  "prix": 3.37,
+  "categorie": "boulangerie",
+  "description": "",
+  "reference": "",
+  "stock": null,
+  "unite": "pièce",
+  "image": "brioche-chocolat.jpg",
+  "publication": "oui",
+  "mis_en_avant": "non"
+}]

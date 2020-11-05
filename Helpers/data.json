@@ -3,60 +3,60 @@
         "id": 1,
         "nom_rayon": "Épicerie salée",
         "image": "vignette-epices.jpg",
-        "lien_bbd": "rayons/epicerie_salee"
+        "lien_bdd": "epicerie_salee"
     },
     {
         "id": 2,
         "nom_rayon": "Viande, poissons, œufs",
         "image": "vignette-viande.jpg",
-        "lien_bbd": "rayons/viande"
+        "lien_bdd": "viande"
     },
     {
         "id": 3,
         "nom_rayon": "Fruits et légumes",
         "image": "vignette-choufleur.jpg",
-        "lien_bbd": "rayons/fruits_et_legumes"
+        "lien_bdd": "fruits_et_legumes"
     },
     {
         "id": 4,
         "nom_rayon": "Cosmétiques",
         "image": "vignette-hygiene.jpg",
-        "lien_bbd": "rayons/cosmetiques"
+        "lien_bdd": "cosmetiques"
     },
     {
         "id": 5,
         "nom_rayon": "Entretien de la maison",
         "image": "vignette-maison.jpg",
-        "lien_bbd": "rayons/entretien_de_la_maison"
+        "lien_bdd": "entretien_de_la_maison"
     },
     {
         "id": 6,
         "nom_rayon": "Boissons",
         "image": "vignette-vin.jpg",
-        "lien_bbd": "rayons/boissons"
+        "lien_bdd": "boissons"
     },
     {
         "id": 7,
         "nom_rayon": "Boulangerie-pâtisserie",
         "image": "vignette-pain.jpg",
-        "lien_bbd": "/rayons/boulangerie"
+        "lien_bdd": "boulangerie"
     },
     {
         "id": 8,
         "nom_rayon": "Produits laitiers",
         "image": "vignette-yaourt.jpg",
-        "lien_bbd": "rayons/produits_laitiers"
+        "lien_bdd": "produits_laitiers"
     },
     {
         "id": 9,
         "nom_rayon": "Épicerie sucrée",
         "image": "vignette-chocolat.jpg",
-        "lien_bbd": "rayons/epicerie_sucree"
+        "lien_bdd": "epicerie_sucree"
     },
     {
         "id": 10,
         "nom_rayon": "Fleurs",
         "image": "vignette-fleurs.jpg",
-        "lien_bbd": "rayons/fleurs"
+        "lien_bdd": "fleurs"
     }
 ]

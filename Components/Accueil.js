@@ -15,7 +15,7 @@ const Item = ({ nom_rayon, image }) => (
 function Home({ navigation }) {
 
     const renderItem = ({ item }) => (
-        <TouchableOpacity onPress={() => navigation.navigate('Rayon',{nom_rayon: item.nom_rayon})}>
+        <TouchableOpacity onPress={() => navigation.navigate('Rayon',{infos:{lien_bdd: item.lien_bdd, nom_rayon:item.nom_rayon}})}>
             <Item nom_rayon={item.nom_rayon} image={item.image} />
         </TouchableOpacity>
     );
@@ -24,8 +24,7 @@ function Home({ navigation }) {
         <ScrollView style={styles.main_vue}>
             <Text style={styles.qui} onPress={() => navigation.navigate('Qui')}>Qui est Babeth <FontAwesomeIcon icon={faAngleRight} /></Text>
             <Text style={styles.produits}>Nos produits</Text>
-            <SafeAreaView style={styles.container}
-            >
+            <SafeAreaView>
                 <FlatList
                     data={RAYONS}
                     renderItem={renderItem}
@@ -65,7 +64,6 @@ const styles = StyleSheet.create({
         paddingTop: 15,
     },
     item: {
-        //backgroundColor: 'rgba(214, 146, 98, 0.1)',
         padding: 20,
         marginVertical: 8,
         marginHorizontal: 16,
