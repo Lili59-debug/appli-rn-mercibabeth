@@ -52,7 +52,7 @@ function NavAccueil() {
                 name="Rayon"
                 component={Rayon}
                 options={{
-                    title: 'Rayon',
+                    title: 'Nos produits',
                     headerStyle: {
                         backgroundColor: '#d69262',
                     },

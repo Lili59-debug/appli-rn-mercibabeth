@@ -13,7 +13,7 @@ class Rayon extends Component {
 
         return (
             <ScrollView style={styles.main_vue}>
-                <Text>Bienvenue dans le rayon {nom_rayon}</Text>
+                <Text style={styles.produits}>Bienvenue dans le rayon {nom_rayon}</Text>
                 <SafeAreaView>
                     <FlatList
                         data={liste_produits}
@@ -46,6 +46,12 @@ const styles = StyleSheet.create({
     image: {
         width: 200,
         height: 200
+    },
+    produits: {
+        marginTop: 10,
+        fontSize: 20,
+        textAlign: 'center',
+        textTransform: 'uppercase'
     }
 })
 

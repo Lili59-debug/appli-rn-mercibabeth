@@ -1,16 +1,16 @@
 import React from 'react'
-import { StyleSheet, View, Text } from 'react-native'
-
+import { StyleSheet, View, Text, Image } from 'react-native'
 
 class ProduitItem extends React.Component {
+
     render() {
         const produit = this.props.produit
         return (
             <View style={styles.item}>
                 <Text style={styles.title}>{produit.nom_produit}</Text>
+                <Image source={require('../Images/' + produit.image)} style={styles.image} />
                 <Text>Nom du producteur : {produit.nom_producteur}</Text>
                 <Text>Prix : {produit.prix} €/{produit.unite}</Text>
-                <Text>{produit.image}</Text>
                 <Text>{produit.description}</Text>
             </View>
         )
@@ -18,9 +18,6 @@ class ProduitItem extends React.Component {
 }
 
 const styles = StyleSheet.create({
-    main_vue: {
-        flex: 1,
-    },
     item: {
         padding: 20,
         marginVertical: 8,
